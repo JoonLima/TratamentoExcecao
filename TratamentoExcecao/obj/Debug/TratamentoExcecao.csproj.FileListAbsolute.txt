@@ -1,0 +1,8 @@
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\bin\Debug\TratamentoExcecao.exe.config
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\bin\Debug\TratamentoExcecao.exe
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\bin\Debug\TratamentoExcecao.pdb
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\obj\Debug\TratamentoExcecao.csproj.AssemblyReference.cache
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\obj\Debug\TratamentoExcecao.csproj.SuggestedBindingRedirects.cache
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\obj\Debug\TratamentoExcecao.csproj.CoreCompileInputs.cache
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\obj\Debug\TratamentoExcecao.exe
+D:\PROJETOS BACKEND\TratamentoExcecao\TratamentoExcecao\obj\Debug\TratamentoExcecao.pdb
